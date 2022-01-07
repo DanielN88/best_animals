@@ -1,0 +1,3 @@
+anmammals
+doggos
+rats
